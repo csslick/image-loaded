@@ -5,3 +5,4 @@
 images loaded check and icon idling
 
 ## Demo page https://csslick.github.io/image-loaded/
+## Plugin Homapage https://imagesloaded.desandro.com/
