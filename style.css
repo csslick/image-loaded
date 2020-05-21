@@ -1,0 +1,24 @@
+    * { margin: 0; padding: 0 }
+    #content {
+      display: none;
+    }
+    #content img { 
+      width: 100%;
+      height: 25vh;
+      object-fit: cover;
+    }
+    #content.show {
+      display: block
+    }
+    #icon-loding {
+      position: fixed;
+      left: 50%;
+      top: 50%;
+    }
+    #icon-loding .fa {
+      font-size: 48px;
+      display: none;
+    }
+    #icon-loding.show .fa {
+       display: block;
+    }
